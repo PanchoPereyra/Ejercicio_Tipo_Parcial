@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|d:\\mis cosas\\facultad\\final programaci\u00F3n 2\\ejercitacion hecha por mi\\ejerciciotipoparcial\\ejerciciotipoparcial\\ejerciciotipoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|solutionrelative:ejerciciotipoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|d:\\mis cosas\\facultad\\final programaci\u00F3n 2\\ejercitacion hecha por mi\\ejerciciotipoparcial\\ejerciciotipoparcial\\ejerciciotipoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|solutionrelative:ejerciciotipoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\ejerciciotipoparcial\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|solutionrelative:ejerciciotipoparcial\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|d:\\mis cosas\\facultad\\final programaci\u00F3n 2\\ejercitacion hecha por mi\\ejerciciotipoparcial\\ejerciciotipoparcial\\ejerciciotipoparcial\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|solutionrelative:ejerciciotipoparcial\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|d:\\mis cosas\\facultad\\final programaci\u00F3n 2\\ejercitacion hecha por mi\\ejerciciotipoparcial\\ejerciciotipoparcial\\ejerciciotipoparcial\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|solutionrelative:ejerciciotipoparcial\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|d:\\mis cosas\\facultad\\final programaci\u00F3n 2\\ejercitacion hecha por mi\\ejerciciotipoparcial\\ejerciciotipoparcial\\ejerciciotipoparcial\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|solutionrelative:ejerciciotipoparcial\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|d:\\mis cosas\\facultad\\final programaci\u00F3n 2\\ejercitacion hecha por mi\\ejerciciotipoparcial\\ejerciciotipoparcial\\ejerciciotipoparcial\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|solutionrelative:ejerciciotipoparcial\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|d:\\mis cosas\\facultad\\final programaci\u00F3n 2\\ejercitacion hecha por mi\\ejerciciotipoparcial\\ejerciciotipoparcial\\ejerciciotipoparcial\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCE20DC-9C8A-4173-97FD-7673B94E1026}|EjercicioTipoParcial\\EjercicioTipoParcial.csproj|solutionrelative:ejerciciotipoparcial\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioTipoParcial\\Form1.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Form1.cs",
+              "RelativeToolTip": "EjercicioTipoParcial\\Form1.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:25:16.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Form2.cs",
+              "RelativeDocumentMoniker": "EjercicioTipoParcial\\Form2.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjercicioTipoParcial\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:30:04.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Cliente.cs",
+              "RelativeDocumentMoniker": "EjercicioTipoParcial\\Cliente.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Cliente.cs",
+              "RelativeToolTip": "EjercicioTipoParcial\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:55:07.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Presupuesto.cs",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Presupuesto.cs",
+              "RelativeDocumentMoniker": "EjercicioTipoParcial\\Presupuesto.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Presupuesto.cs",
+              "RelativeToolTip": "EjercicioTipoParcial\\Presupuesto.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwEcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:25:24.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mesa.cs",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Mesa.cs",
+              "RelativeDocumentMoniker": "EjercicioTipoParcial\\Mesa.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Mesa.cs",
+              "RelativeToolTip": "EjercicioTipoParcial\\Mesa.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvx4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:19:46.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Banco.cs",
+              "RelativeDocumentMoniker": "EjercicioTipoParcial\\Banco.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Banco.cs",
+              "RelativeToolTip": "EjercicioTipoParcial\\Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:07:58.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Producto.cs",
+              "RelativeDocumentMoniker": "EjercicioTipoParcial\\Producto.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Producto.cs",
+              "RelativeToolTip": "EjercicioTipoParcial\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:06:12.157Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 133,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioTipoParcial\\Form1.cs",
+              "ToolTip": "D:\\Mis Cosas\\Facultad\\Final Programaci\u00F3n 2\\Ejercitacion hecha por mi\\EjercicioTipoParcial\\EjercicioTipoParcial\\EjercicioTipoParcial\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjercicioTipoParcial\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:24:12.99Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
